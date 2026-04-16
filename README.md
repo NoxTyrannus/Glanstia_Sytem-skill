@@ -1,4 +1,4 @@
-# Glanstia_sytem-skill
+# Glanstia_System-skill
 使用大模型对自然语言进行蒸馏，获取"数字灵魂“并应用的项目。
 
 本系统应用了GNO项目的能力增强召回，这可能不是最合适的方式，但应该是最方便的
